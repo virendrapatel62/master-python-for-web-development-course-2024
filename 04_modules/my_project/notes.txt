@@ -1,0 +1,6 @@
+my_project/
+├── math_operations/
+│   ├── __init__.py
+│   ├── add_subtract.py
+│   └── multiply_divide.py
+└── main.py
