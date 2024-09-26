@@ -1,0 +1,142 @@
+[
+    {
+        "student_id": "101",
+        "name": "Aarav Sharma",
+        "age": "20",
+        "city": "Mumbai",
+        "course": "Computer Science"
+    },
+    {
+        "student_id": "102",
+        "name": "Isha Verma",
+        "age": "21",
+        "city": "Delhi",
+        "course": "Mechanical Engineering"
+    },
+    {
+        "student_id": "103",
+        "name": "Aditya Patel",
+        "age": "22",
+        "city": "Bangalore",
+        "course": "Civil Engineering"
+    },
+    {
+        "student_id": "104",
+        "name": "Kavya Iyer",
+        "age": "19",
+        "city": "Chennai",
+        "course": "Electrical Engineering"
+    },
+    {
+        "student_id": "105",
+        "name": "Rohan Singh",
+        "age": "20",
+        "city": "Pune",
+        "course": "Information Technology"
+    },
+    {
+        "student_id": "106",
+        "name": "Meera Desai",
+        "age": "21",
+        "city": "Kolkata",
+        "course": "Chemical Engineering"
+    },
+    {
+        "student_id": "107",
+        "name": "Arjun Nair",
+        "age": "22",
+        "city": "Hyderabad",
+        "course": "Electronics Engineering"
+    },
+    {
+        "student_id": "108",
+        "name": "Sanya Malik",
+        "age": "20",
+        "city": "Ahmedabad",
+        "course": "Computer Science"
+    },
+    {
+        "student_id": "109",
+        "name": "Pranav Joshi",
+        "age": "19",
+        "city": "Jaipur",
+        "course": "Biotechnology"
+    },
+    {
+        "student_id": "110",
+        "name": "Neha Gupta",
+        "age": "21",
+        "city": "Lucknow",
+        "course": "Aeronautical Engineering"
+    },
+    {
+        "student_id": "111",
+        "name": "Rajesh Kulkarni",
+        "age": "22",
+        "city": "Mumbai",
+        "course": "Automobile Engineering"
+    },
+    {
+        "student_id": "112",
+        "name": "Pooja Chatterjee",
+        "age": "20",
+        "city": "Delhi",
+        "course": "Computer Engineering"
+    },
+    {
+        "student_id": "113",
+        "name": "Vikram Reddy",
+        "age": "22",
+        "city": "Bangalore",
+        "course": "Mechanical Engineering"
+    },
+    {
+        "student_id": "114",
+        "name": "Aditi Bhardwaj",
+        "age": "19",
+        "city": "Chennai",
+        "course": "Architecture"
+    },
+    {
+        "student_id": "115",
+        "name": "Kunal Bansal",
+        "age": "21",
+        "city": "Pune",
+        "course": "Information Technology"
+    },
+    {
+        "student_id": "116",
+        "name": "Nidhi Pandey",
+        "age": "22",
+        "city": "Kolkata",
+        "course": "Civil Engineering"
+    },
+    {
+        "student_id": "117",
+        "name": "Aakash Mehta",
+        "age": "20",
+        "city": "Hyderabad",
+        "course": "Electrical Engineering"
+    },
+    {
+        "student_id": "118",
+        "name": "Shruti Rao",
+        "age": "19",
+        "city": "Ahmedabad",
+        "course": "Biotechnology"
+    },
+    {
+        "student_id": "119",
+        "name": "Yash Kapoor",
+        "age": "21",
+        "city": "Jaipur",
+        "course": "Mechanical Engineering"
+    },
+    {
+        "student_id": "120",
+        "name": "Simran Kaur",
+        "age": "22",
+        "city": "Lucknow",
+        "course": "Electronics Engineering"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "city_id": "1",
+        "city_name": "Mumbai",
+        "state": "Maharashtra",
+        "population": "20411000",
+        "area_sq_km": "603.4"
+    },
+    {
+        "city_id": "2",
+        "city_name": "Delhi",
+        "state": "Delhi",
+        "population": "16787941",
+        "area_sq_km": "1484"
+    },
+    {
+        "city_id": "3",
+        "city_name": "Bangalore",
+        "state": "Karnataka",
+        "population": "8443675",
+        "area_sq_km": "709"
+    },
+    {
+        "city_id": "4",
+        "city_name": "Hyderabad",
+        "state": "Telangana",
+        "population": "6809970",
+        "area_sq_km": "650"
+    },
+    {
+        "city_id": "5",
+        "city_name": "Ahmedabad",
+        "state": "Gujarat",
+        "population": "5570585",
+        "area_sq_km": "464"
+    },
+    {
+        "city_id": "6",
+        "city_name": "Chennai",
+        "state": "Tamil Nadu",
+        "population": "7090000",
+        "area_sq_km": "426"
+    },
+    {
+        "city_id": "7",
+        "city_name": "Kolkata",
+        "state": "West Bengal",
+        "population": "4486679",
+        "area_sq_km": "185"
+    },
+    {
+        "city_id": "8",
+        "city_name": "Pune",
+        "state": "Maharashtra",
+        "population": "3124458",
+        "area_sq_km": "331"
+    },
+    {
+        "city_id": "9",
+        "city_name": "Jaipur",
+        "state": "Rajasthan",
+        "population": "3046163",
+        "area_sq_km": "485"
+    },
+    {
+        "city_id": "10",
+        "city_name": "Surat",
+        "state": "Gujarat",
+        "population": "4467797",
+        "area_sq_km": "326"
+    },
+    {
+        "city_id": "11",
+        "city_name": "Lucknow",
+        "state": "Uttar Pradesh",
+        "population": "2815601",
+        "area_sq_km": "631"
+    },
+    {
+        "city_id": "12",
+        "city_name": "Kanpur",
+        "state": "Uttar Pradesh",
+        "population": "2768057",
+        "area_sq_km": "403"
+    },
+    {
+        "city_id": "13",
+        "city_name": "Nagpur",
+        "state": "Maharashtra",
+        "population": "2405665",
+        "area_sq_km": "393"
+    }
+]

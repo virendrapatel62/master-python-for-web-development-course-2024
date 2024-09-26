@@ -1,0 +1,14 @@
+city_id,city_name,state,population,area_sq_km
+1,Mumbai,Maharashtra,20411000,603.4
+2,Delhi,Delhi,16787941,1484
+3,Bangalore,Karnataka,8443675,709
+4,Hyderabad,Telangana,6809970,650
+5,Ahmedabad,Gujarat,5570585,464
+6,Chennai,Tamil Nadu,7090000,426
+7,Kolkata,West Bengal,4486679,185
+8,Pune,Maharashtra,3124458,331
+9,Jaipur,Rajasthan,3046163,485
+10,Surat,Gujarat,4467797,326
+11,Lucknow,Uttar Pradesh,2815601,631
+12,Kanpur,Uttar Pradesh,2768057,403
+13,Nagpur,Maharashtra,2405665,393
